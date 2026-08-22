@@ -107,11 +107,11 @@ export const departmentLayoutData = {
             "Wave Optics & Lasers",
             "Modern Physics Labs"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1j1BCmZe04ibF3aB6J7Tb2-ZkzBuqIJ0Q/preview",
+        syllabusUrl: "https://drive.google.com/file/d/12cPdAjfsgGwZbL1kEpK7ydAIKzANy3xs/preview",
         syllabus: [
             {
                 session: "Course Structure and Syllabus",
-                url: "https://drive.google.com/file/d/1j1BCmZe04ibF3aB6J7Tb2-ZkzBuqIJ0Q/preview"
+                url: "https://drive.google.com/file/d/12cPdAjfsgGwZbL1kEpK7ydAIKzANy3xs/preview"
             }
         ]
     },
@@ -130,11 +130,11 @@ export const departmentLayoutData = {
             "Computational Physics",
             "Honors Research Project"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1j1BCmZe04ibF3aB6J7Tb2-ZkzBuqIJ0Q/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1D3O-oxalRh1wztcUh150XYXF-hPvx1i9/preview",
         syllabus: [
             {
                 session: "Course Structure and Syllabus",
-                url: "https://drive.google.com/file/d/1j1BCmZe04ibF3aB6J7Tb2-ZkzBuqIJ0Q/preview"
+                url: "https://drive.google.com/file/d/1D3O-oxalRh1wztcUh150XYXF-hPvx1i9/preview"
             }
         ]
     },
@@ -176,11 +176,11 @@ export const departmentLayoutData = {
             "Statistical Physics",
             "Master Thesis Project"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1tWVEoifehX7MEQbA6LUksu9Pn925Td89/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1xbXEchkxEkNd4aiNl8PZSUnt4G_GyE6n/preview",
         syllabus: [
             {
                 session: "Course Structure and Syllabus",
-                url: "https://drive.google.com/file/d/1tWVEoifehX7MEQbA6LUksu9Pn925Td89/preview"
+                url: "https://drive.google.com/file/d/1xbXEchkxEkNd4aiNl8PZSUnt4G_GyE6n/preview"
             }
         ]
     },
@@ -199,11 +199,11 @@ export const departmentLayoutData = {
             "Peer-Reviewed Publications",
             "Ph.D. Defense"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1byH_FnKZo8W_ldQFaqgUkRtO-y0iWmdk/preview",
+        syllabusUrl: "https://drive.google.com/file/d/16ECePMpZEGzMxRtGpwJ1_H3M7AF6-IWk/preview",
         syllabus: [
             {
                 session: "Course Structure and Syllabus",
-                url: "https://drive.google.com/file/d/1byH_FnKZo8W_ldQFaqgUkRtO-y0iWmdk/preview"
+                url: "https://drive.google.com/file/d/16ECePMpZEGzMxRtGpwJ1_H3M7AF6-IWk/preview"
             }
         ]
     }

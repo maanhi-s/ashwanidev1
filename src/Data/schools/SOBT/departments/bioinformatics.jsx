@@ -115,7 +115,7 @@ export const departmentLayoutData = {
         "Database Design",
         "Research Dissertation",
       ],
-      syllabusUrl: "https://drive.google.com/file/d/13tLAb-fKH4N4e6ejfj2904ilXmqsojcB/preview",
+      syllabusUrl: "https://drive.google.com/file/d/1_oOHFzQQRsNCwuLf85ekR-I54vHv_xZ8/preview",
       syllabus: [],
     },
     {

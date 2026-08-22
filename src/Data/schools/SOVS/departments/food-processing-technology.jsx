@@ -107,11 +107,11 @@ export const departmentLayoutData = {
             "Food Safety (HACCP & FSSAI)",
             "Food Plant Machinery"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1COEW9fVRZFBePL6XXjyQSk-t7tYD5Zu9/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview"
+                url: "https://drive.google.com/file/d/1COEW9fVRZFBePL6XXjyQSk-t7tYD5Zu9/preview"
             }
         ]
     },
@@ -130,11 +130,11 @@ export const departmentLayoutData = {
             "Bioprocess Engineering",
             "Master Research Project"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview",
+        syllabusUrl: "https://drive.google.com/file/d/17pSzZK89I95Dj8jywI4p_6TNKSLEYFgi/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview"
+                url: "https://drive.google.com/file/d/17pSzZK89I95Dj8jywI4p_6TNKSLEYFgi/preview"
             }
         ]
     },
@@ -153,11 +153,11 @@ export const departmentLayoutData = {
             "Food Chemistry & Nutrition",
             "Master Dissertation"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1IkcM6bUiR_EyT2vwVmqRmDz17hhqPFjv/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview"
+                url: "https://drive.google.com/file/d/1IkcM6bUiR_EyT2vwVmqRmDz17hhqPFjv/preview"
             }
         ]
     },
@@ -176,11 +176,11 @@ export const departmentLayoutData = {
             "Functional Food Research",
             "Ph.D. Defense"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1yuriuqAEfIuHqQs_TTdgmQe0HOJ4daBH/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/112gjTG5GexRx7MyIUyCdPhVEdQZhaI85/preview"
+                url: "https://drive.google.com/file/d/1yuriuqAEfIuHqQs_TTdgmQe0HOJ4daBH/preview"
             }
         ]
     }

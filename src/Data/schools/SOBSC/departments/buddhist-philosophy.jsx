@@ -116,15 +116,15 @@ export const departmentLayoutData = {
             "Indian Epistemology",
             "Vipassana Meditation"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1gUEaEHqiclGC47Tdnv4gAErlJhSF_ZmO/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1wtsMv7tatznFLunXAuQdJKyEjhZ9c2db/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1gUEaEHqiclGC47Tdnv4gAErlJhSF_ZmO/preview"
+                url: "https://drive.google.com/file/d/1wtsMv7tatznFLunXAuQdJKyEjhZ9c2db/preview"
             },
             {
                 session: "Syllabus (NEP)",
-                url: "https://drive.google.com/file/d/1gUEaEHqiclGC47Tdnv4gAErlJhSF_ZmO/preview"
+                url: "https://drive.google.com/file/d/10hJbJbvhaD7ef85JVUCPiDC68K0uVCpN/preview"
             }
         ]
     },
@@ -143,11 +143,11 @@ export const departmentLayoutData = {
             "Abhidhamma Analysis",
             "Master Dissertation"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1FBbN4W5_HBACzC9QgWno3X73eX8Jzspj/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1C4EzZRWUUReIVE_oilpSOzYa-k9Ivu_c/preview",
         syllabus: [
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1FBbN4W5_HBACzC9QgWno3X73eX8Jzspj/preview"
+                url: "https://drive.google.com/file/d/1C4EzZRWUUReIVE_oilpSOzYa-k9Ivu_c/preview"
             }
         ]
     },
@@ -166,11 +166,11 @@ export const departmentLayoutData = {
             "Comparative Buddhist Philosophy",
             "Dissertation"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/11UfejtO7DXdKaygMlvLrT_egeRtpdNfF/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1CmhEorxdRTCuOvvBnRSJySflcHtxjXMs/preview",
         syllabus: [
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/11UfejtO7DXdKaygMlvLrT_egeRtpdNfF/preview"
+                url: "https://drive.google.com/file/d/1CmhEorxdRTCuOvvBnRSJySflcHtxjXMs/preview"
             }
         ]
     },
@@ -189,11 +189,11 @@ export const departmentLayoutData = {
             "Seminars & Peer Reviews",
             "Ph.D. Defense"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/11UfejtO7DXdKaygMlvLrT_egeRtpdNfF/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1DRnRPE7VdSp5tHaBymZtQdP_no8ra2DJ/preview",
         syllabus: [
             {
                 session: "Course Work & Syllabus",
-                url: "https://drive.google.com/file/d/11UfejtO7DXdKaygMlvLrT_egeRtpdNfF/preview"
+                url: "https://drive.google.com/file/d/1DRnRPE7VdSp5tHaBymZtQdP_no8ra2DJ/preview"
             }
         ]
     },
@@ -212,11 +212,11 @@ export const departmentLayoutData = {
             "Textual Analysis",
             "Certificate / PG Diploma"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1XqxhWrvE0cDiiCDnYI7ZmaW5jTlVTDtA/preview",
+        syllabusUrl: "https://drive.google.com/file/d/159H3x3f43v8D2HTsMr2KyFQw7hqh1M_v/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1XqxhWrvE0cDiiCDnYI7ZmaW5jTlVTDtA/preview"
+                url: "https://drive.google.com/file/d/159H3x3f43v8D2HTsMr2KyFQw7hqh1M_v/preview"
             }
         ]
     },
@@ -235,11 +235,11 @@ export const departmentLayoutData = {
             "Tour Guiding & Management",
             "Field Project"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1XqxhWrvE0cDiiCDnYI7ZmaW5jTlVTDtA/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1GEmb-ktIV_taPiJQMtwULYrjOj_aDV52/preview",
         syllabus: [
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1XqxhWrvE0cDiiCDnYI7ZmaW5jTlVTDtA/preview"
+                url: "https://drive.google.com/file/d/1GEmb-ktIV_taPiJQMtwULYrjOj_aDV52/preview"
             }
         ]
     },
@@ -258,11 +258,11 @@ export const departmentLayoutData = {
             "Socially Engaged Buddhism",
             "Mindfulness Practice"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1XyXVcmunBx2lWyhgaij5OrgxmIF1QKOX/preview",
+        syllabusUrl: "https://drive.google.com/file/d/16_-GF1VVj_nDF-4_8NEgJCW8Qhmeg4-u/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1XyXVcmunBx2lWyhgaij5OrgxmIF1QKOX/preview"
+                url: "https://drive.google.com/file/d/16_-GF1VVj_nDF-4_8NEgJCW8Qhmeg4-u/preview"
             }
         ]
     }

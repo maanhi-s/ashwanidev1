@@ -116,7 +116,7 @@ export const departmentLayoutData = {
         "Clinical Research",
         "Research Dissertation",
       ],
-      syllabusUrl: "https://drive.google.com/file/d/1rwFl8A40JqHjTmxvMus3PJ0e_sabS-aC/preview",
+      syllabusUrl: "https://drive.google.com/file/d/1_dT3tkjtyeI1Atp252t4XJJYZFbdwARc/preview",
       syllabus: [],
     },
     {

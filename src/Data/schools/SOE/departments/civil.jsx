@@ -108,15 +108,15 @@ export const departmentLayoutData = {
             "Transportation & Highways",
             "Surveying & GIS"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1w9JFOjXlgh7tUemeCkHMs4GdH7ffltvj/preview",
+        syllabusUrl: "https://drive.google.com/file/d/118F0-e2HTY1HPQ3xjmQkWx6wvZxdEDc2/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1w9JFOjXlgh7tUemeCkHMs4GdH7ffltvj/preview"
+                url: "https://drive.google.com/file/d/118F0-e2HTY1HPQ3xjmQkWx6wvZxdEDc2/preview"
             },
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1w9JFOjXlgh7tUemeCkHMs4GdH7ffltvj/preview"
+                url: "https://drive.google.com/file/d/1Eqfnl-vRUf4BbEFU00fKJvte1OlcHzc2/preview"
             }
         ]
     },
@@ -135,15 +135,15 @@ export const departmentLayoutData = {
             "Foundation Design",
             "Master Thesis"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1A7FerR5Zo3BPO9FV0xpfdBR8poRmFkE2/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview"
+                url: "https://drive.google.com/file/d/1A7FerR5Zo3BPO9FV0xpfdBR8poRmFkE2/preview"
             },
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview"
+                url: "https://drive.google.com/file/d/1LfNkjEaWgn_CP1fi_bCHPLCy-wwb5s0C/preview"
             }
         ]
     },
@@ -162,15 +162,15 @@ export const departmentLayoutData = {
             "EIA & Environmental Auditing",
             "Solid Waste Systems"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1-dvdBTpX12FyAr27rrHv0c5qIBcPOjt7/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview"
+                url: "https://drive.google.com/file/d/1-dvdBTpX12FyAr27rrHv0c5qIBcPOjt7/preview"
             },
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview"
+                url: "https://drive.google.com/file/d/15IOOW-0VTibAu8tBP7-ZRdJs7lZSfH-2/preview"
             }
         ]
     },
@@ -189,15 +189,15 @@ export const departmentLayoutData = {
             "FEM Structural Modeling",
             "Dissertation"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview",
+        syllabusUrl: "https://drive.google.com/file/d/13pjPcaO4qasu1YBoz9Lnlf0XD4saOHr1/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview"
+                url: "https://drive.google.com/file/d/13pjPcaO4qasu1YBoz9Lnlf0XD4saOHr1/preview"
             },
             {
                 session: "Syllabus",
-                url: "https://drive.google.com/file/d/1fG3-xe3hVly3MRg4_1f_-hcYijWpi79v/preview"
+                url: "https://drive.google.com/file/d/13pjPcaO4qasu1YBoz9Lnlf0XD4saOHr1/preview"
             }
         ]
     },
@@ -216,11 +216,11 @@ export const departmentLayoutData = {
             "Intelligent Transportation (ITS)",
             "Urban Transit"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1Vkc8CMaQQIVvoYM0F75sL4Mu_g7P_cOI/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1UU_OiuIun-c56cHqUuZ5Hl1b5KzKcGCh/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1Vkc8CMaQQIVvoYM0F75sL4Mu_g7P_cOI/preview"
+                url: "https://drive.google.com/file/d/1UU_OiuIun-c56cHqUuZ5Hl1b5KzKcGCh/preview"
             }
         ]
     },
@@ -239,11 +239,11 @@ export const departmentLayoutData = {
             "Safety Engineering",
             "Site Management"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1ei44n7OQJeeYz1b4WqtjC5BhHxrtA2f-/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview"
+                url: "https://drive.google.com/file/d/1ei44n7OQJeeYz1b4WqtjC5BhHxrtA2f-/preview"
             }
         ]
     },
@@ -262,11 +262,11 @@ export const departmentLayoutData = {
             "Soil Dynamics",
             "Geoenvironmental Barriers"
         ],
-        syllabusUrl: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview",
+        syllabusUrl: "https://drive.google.com/file/d/1myvKRmnobf4RGVp6ljApSwMNlsZotc6B/preview",
         syllabus: [
             {
                 session: "Course Structure",
-                url: "https://drive.google.com/file/d/1dA6bQVyU_7OE7-ZpxI8kajyAuMFKJVEI/preview"
+                url: "https://drive.google.com/file/d/1myvKRmnobf4RGVp6ljApSwMNlsZotc6B/preview"
             }
         ]
     },
